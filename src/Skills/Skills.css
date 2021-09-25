@@ -1,0 +1,23 @@
+.skills {
+    /* position: relative; */
+    border-bottom: 1px solid brown;
+}
+
+.skills .info {
+    border-left: 6px solid brown;
+}
+
+.skills .info p {
+    padding-left: 10px;
+    padding-top: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.skills .info :not( :nth-child(5), :nth-child( 9 ) ) {
+    text-transform: uppercase;
+}
+
+.skills .info :last-child {
+    padding-bottom: 20px;
+}

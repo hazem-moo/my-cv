@@ -1,0 +1,13 @@
+.summary {
+    background-color: #fff;
+    border-bottom: 1px solid brown;
+}
+
+.summary .info {
+    border-left: 7px solid brown;
+}
+
+.summary .info p {
+    padding: 22px 0 22px 5px;
+    margin-bottom: 0;
+}

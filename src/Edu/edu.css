@@ -1,0 +1,13 @@
+.edu {
+    border-bottom: 1px solid brown;
+}
+
+.edu .info {
+    border-left: 6px solid brown;
+}
+
+.edu .info p {
+    margin-bottom: 0 !important;
+    padding: 10px 5px;
+    font-weight: 500;
+}

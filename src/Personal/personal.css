@@ -1,0 +1,46 @@
+.personal {
+    position: relative;
+    z-index: 7;
+    background-color: #fff;
+    border-bottom: 1px solid brown;
+    border-radius: 20px 20px 0 0;
+}
+
+.personal h1 {
+    color: brown;
+    padding-top: 15px;
+    font-weight: 400;
+    font-family: 'Lobster', cursive;
+}
+.personal p {
+    padding-bottom: 15px;
+    font-family: 'Lobster', cursive;
+    font-size: 19px;
+    margin-left: 20px;
+}
+
+.personal .info {
+    border-left: 7px solid brown;
+    overflow-x: hidden;
+}
+
+.personal .info div {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 ;
+    color: brown;
+}
+
+.personal .info :first-child {
+    margin-top: 15px;
+}
+
+.personal .info div > i {
+    margin-left: 10px;
+    font-size: 22px;
+    margin-right: 10px;
+    z-index: 1;
+}
+
