@@ -1,5 +1,6 @@
 .app {
     margin: 30px 0;
+    box-shadow: 10px 10px 8px rgb(180, 94, 94);
 }
 
 .app h4 {

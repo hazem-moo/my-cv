@@ -7,28 +7,28 @@ export const Portfolio = () => {
         {
             link: "https://hazem-moo.github.io/zoma-style/",
             name: "zoma style",
-            text: 'this is frist disign with me i creaataed by HTML HTML5 CSS CSS3 react javaScript قثشؤفسفقشح',
+            text: 'this is frist disign with me i creaataed by HTML HTML5 CSS CSS3 react javaScript reactstrap',
             target: "_blank",
             id: 1
         },
         {
             link: "https://hazem-moo.github.io/almdar/",
             name: "almdar",
-            text: 'this is news website i creaataed by HTML HTML5 CSS CSS3 react javaScript قثشؤفسفقشح',
+            text: 'this is news website i creaataed by HTML HTML5 CSS CSS3 react javaScript reactstrap',
             id: 2,
             target: "_blank"
         },
         {
             link: "https://hazem-moo.github.io/combo/",
             name: "combo",
-            text: 'this is foot website i creaataed by HTML HTML5 CSS CSS3 react javaScript قثشؤفسفقشح',
+            text: 'this is foot website i creaataed by HTML HTML5 CSS CSS3 react javaScript reactstrap',
             target: "_blank",
             id: 3
         },
         {
             link: "https://hazem-moo.github.io/zoom/",
             name: "zoom",
-            text: 'This site is one of my favorite reality for the frying I made i creaataed by HTML HTML5 CSS CSS3 react javaScript قثشؤفسفقشح',
+            text: 'This site is one of my favorite reality for the frying I made i creaataed by HTML HTML5 CSS CSS3 react javaScript reactstrap',
             target: "_blank",
             id: 4
         }

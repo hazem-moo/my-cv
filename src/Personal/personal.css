@@ -10,14 +10,15 @@
 .personal h1 {
     color: brown;
     padding-top: 15px;
-    font-weight: 400;
     font-family: 'Lobster', cursive;
+    text-transform: uppercase;
 }
 .personal p {
     padding-bottom: 15px;
-    font-family: 'Lobster', cursive;
-    font-size: 19px;
+    font-size: 20px;
+    text-transform: capitalize;
     margin-left: 20px;
+    font-weight: 600;
 }
 
 .personal .info {

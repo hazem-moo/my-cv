@@ -12,7 +12,7 @@ export const Summary = () => {
                 <div className='col-md-6'>
                     <div className='info text-center'>
                         <p>
-                            my name's hazem mohamed i'm person lovely and freindly from all people. I'm an ambitious person, always striving to learn and know
+                            my name's hazem mohamed i'm person lovely and freindly from all people. I'm an ambitious person, always strive to learn and know
                         </p>
                     </div>
                 </div>
