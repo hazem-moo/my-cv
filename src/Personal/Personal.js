@@ -6,11 +6,11 @@ export const Personal = () => {
     return (
         <div className='container personal'>
             <div className='row'>
-                <div className='col-md-6'>
-                    <h1> hazem mohamed hafez </h1>
-                    <p> front end develoer </p>
+                <div className='col-md-4'>
+                    <h3> hazem mohamed </h3>
+                    <p> front end developer </p>
                 </div>
-                <div className='col-md-6'>
+                <div className='col-md-8'>
                     <div className='info  '>
                         <div>
                             <i className="fas fa-globe-africa"></i>

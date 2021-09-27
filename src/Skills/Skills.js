@@ -28,10 +28,10 @@ export const Skills = () => {
     return (
         <div className='skills container bg-white'>
             <div className='row'>
-                <div className='col-md-6'>
+                <div className='col-md-4'>
                     <h3> skills </h3>
                 </div>
-                <div className='col-md-6'>
+                <div className='col-md-8'>
                     <div className='info'>
                         { all_lang }
                     </div>

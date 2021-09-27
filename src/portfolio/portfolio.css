@@ -29,3 +29,8 @@ a {
     padding: 20px 0;
     font-family: 'Lobster', cursive;
 }
+
+.portfolio .info p {
+    color: #666;
+    font-size: 18px;
+}

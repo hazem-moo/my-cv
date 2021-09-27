@@ -10,4 +10,6 @@
 .summary .info p {
     padding: 22px 0 22px 5px;
     margin-bottom: 0;
+    color: #666;
+    font-size: 18px;
 }

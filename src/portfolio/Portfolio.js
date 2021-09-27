@@ -51,10 +51,10 @@ export const Portfolio = () => {
     return (
         <div className='portfolio container bg-white'>
             <div className='row'>
-                <div className='col-md-6'>
+                <div className='col-md-4'>
                     <h3> portfolio </h3>
                 </div>
-                <div className='col-md-6'>
+                <div className='col-md-8'>
                     { website }
                 </div>
             </div>
