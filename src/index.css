@@ -26,3 +26,13 @@ h3, h4 {
     font-weight: 400;
     font-family: 'Lobster', cursive;
 }
+
+a {
+  text-decoration: underline !important;
+  color: brown;
+  font-size: 22px !important;
+  font-weight: 500;
+  display: block;
+  padding: 20px 0;
+  font-family: 'Lobster', cursive;
+}

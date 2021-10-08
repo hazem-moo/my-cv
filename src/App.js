@@ -1,8 +1,12 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import "./App.css";
 import { Container } from './Components/Container';
 
 function App() {
+
+  useEffect(() => {
+      document.title = 'my CV'
+  }, [])
 
   const updataData = document.lastModified
   

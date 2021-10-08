@@ -6,21 +6,23 @@
     border-radius: 20px 20px 0 0;
 }
 
-.personal h2 {
+.personal h3 {
     color: brown;
     padding-top: 15px;
-    font-family: 'Lobster', cursive;
+    font-family: ui-sans-serif;
     text-transform: uppercase;
     font-size: 32px;
     padding-bottom: 12px;
+    font-weight: 600;
 }
+
 .personal p {
     padding-bottom: 15px;
     font-size: 20px;
     text-transform: capitalize;
     margin-left: 20px;
     font-weight: 600;
-    color: #777;
+    color: #222;
 }
 
 .personal .info {
@@ -34,7 +36,7 @@
     display: flex;
     justify-content: space-between;
     margin: 0 ;
-    color: brown;
+    color: brown !important; 
 }
 
 .personal .info :first-child {
@@ -48,6 +50,6 @@
     z-index: 1;
 }
 
-.personal .info div a {
-    color: #777;
+.personal .info div p {
+    color: brown;
 }
